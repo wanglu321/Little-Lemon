@@ -1,0 +1,17 @@
+.Book{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-top: 15px;
+    
+}
+h3{
+    color:rgb(73,94,87);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: italic;
+    text-shadow: 1px 1px 2px;
+}
+h3:hover{
+    color:#EE9972
+}

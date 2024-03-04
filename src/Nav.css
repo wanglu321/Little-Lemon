@@ -1,0 +1,12 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(251,218,187);
+}
+.nav{
+    
+    font-weight: 500;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
